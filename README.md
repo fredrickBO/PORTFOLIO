@@ -28,7 +28,7 @@ To run the portfolio locally:
 3. Open `index.html` in a browser or, if using a framework, install dependencies and start the development server:
 
 # Deployment
-The portfolio is hosted online. You can visit it at: [Your Live Portfolio Link Here]
+The portfolio is hosted online. You can visit it at: https://fredrickbo.github.io/portfolio/
 
 To deploy updates:
 - Push changes to the main branch
@@ -40,7 +40,6 @@ If you have suggestions for improvement, feel free to fork the repository and su
 # Contact
 For inquiries or collaboration, reach out to me via:
 - Email: fredrickoundobarasa@gmail.com
-- LinkedIn:
 
 
 Thank you for visiting my portfolio repository!
